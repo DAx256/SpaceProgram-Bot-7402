@@ -29,7 +29,7 @@ Scalability:
 The lists of each segment can be increased as time passes. New entries can be added non-disruptively as they are separate files from the script. The script will only read from them before making the post. 
 
 
-Future improvements (AFTER HACKATHON):
+Future improvements (AFTER HACKATHON IS OVER):
 1) The use of images. Each part with its own image will be used to "build" the rocket. Similar to how Bottlebot1904 works. 
 2) The launch sequence image could show a map of the solar system and a visual representation of the distance travelled. 
 3) Each part has "stats" that will influence the outcome of the mission. This would make the bot more interesting, but less RNG-ish (funny haha factor).
