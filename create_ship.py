@@ -199,7 +199,7 @@ f.close()
 
 #Define the content of the FB post. Change if it was a tie on previous post
 if tie == True:
-	content ="You have been tasked to create a spaceship to complete a mission. \nYour mission is the following: " + mission +" \nThe previous vote was a tie. It has been selected randomly.\nYour current parts: \nHull: " + hull_final + "\n\nPlease select an engine from the options below: \n\n\nWow - " + engine1 + "\nHaha - " + engine2 + "\nSad - " + engine2 + "\nLove - " + engine4
+	content ="You have been tasked to create a spaceship to complete a mission. \nYour mission is the following: " + mission +" \nThe previous vote was a tie. It has been selected randomly.\nYour current parts: \nHull: " + hull_final + "\n\nPlease select an engine from the options below: \n\n\nWow - " + engine1 + "\nHaha - " + engine2 + "\nSad - " + engine3 + "\nLove - " + engine4
 else:
 	content ="You have been tasked to create a spaceship to complete a mission. \nYour mission is the following: " + mission +" \nYour current parts: \nHull: " + hull_final + "\n\nPlease select an engine from the options below: \n\n\nWow - " + engine1 + "\nHaha - " + engine2 + "\nSad - " + engine3 + "\nLove - " + engine4
 
